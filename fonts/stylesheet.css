@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Star Jedi';
+    src: url('StarJedi.woff2') format('woff2'),
+        url('StarJedi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'StarJedi Special Edition';
+    src: url('StarJediSpecialEdition.woff2') format('woff2'),
+        url('StarJediSpecialEdition.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Star Jedi Outline';
+    src: url('StarJediOutline.woff2') format('woff2'),
+        url('StarJediOutline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Star Jedi Logo DoubleLine2';
+    src: url('StarJediLogoDoubleLine2.woff2') format('woff2'),
+        url('StarJediLogoDoubleLine2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Wild West Icons';
+    src: url('WildWestIcons.woff2') format('woff2'),
+        url('WildWestIcons.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Murmansk Filled';
+    src: url('MurmanskFilled-Regular.woff2') format('woff2'),
+        url('MurmanskFilled-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Demode';
+    src: url('Demode-Regular.woff2') format('woff2'),
+        url('Demode-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Star Jedi Hollow';
+    src: url('StarJediHollow.woff2') format('woff2'),
+        url('StarJediHollow.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Star Jedi Logo DoubleLine1';
+    src: url('StarJediLogoDoubleLine1.woff2') format('woff2'),
+        url('StarJediLogoDoubleLine1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Star Jedi Logo MonoLine';
+    src: url('StarJediLogoMonoLine.woff2') format('woff2'),
+        url('StarJediLogoMonoLine.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Demode';
+    src: url('Demode-Negative.woff2') format('woff2'),
+        url('Demode-Negative.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Murmansk Book';
+    src: url('MurmanskBook-Regular.woff2') format('woff2'),
+        url('MurmanskBook-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Other Space';
+    src: url('OtherSpace.woff2') format('woff2'),
+        url('OtherSpace.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vintages';
+    src: url('Vintages.woff2') format('woff2'),
+        url('Vintages.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Murmansk';
+    src: url('Murmansk-Regular.woff2') format('woff2'),
+        url('Murmansk-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bring Heart';
+    src: url('BringHeart.woff2') format('woff2'),
+        url('BringHeart.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ancient';
+    src: url('Ancient-Medium.woff2') format('woff2'),
+        url('Ancient-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Madelina Script';
+    src: url('MadelinaScript.woff2') format('woff2'),
+        url('MadelinaScript.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
